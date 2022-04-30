@@ -27,12 +27,12 @@ notifica que ha sido acreedor al bono de puntualidad. Si el empleado tiene
 2 retardos se le suspende un día y si tiene 3 o más retardos se le da de
 baja al final del mes. Describe tal situación usando operadores
 relacionales.
-
+NOMBRE DE LA VARIABLE: 
 Reto. Analiza el problema y selecciona la opción que consideres que lo
 resuelve:
 “C” es mayor que “D”. “E” es menor que “F”. “G” es menor que “E” y “D” es
 mayor que “F”. ¿Cuál es el menor de todos?
-
+LA G ES EL MENOR DE TODOS
 3^2 – (10/(8-4))+9 > 100 
 
 ## OPERADORES LOGICOS
