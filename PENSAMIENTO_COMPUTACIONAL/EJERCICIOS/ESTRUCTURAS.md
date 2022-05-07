@@ -3,9 +3,9 @@
 
 * Programa que pida un número y diga si es positivo o negativo
 * INICIO
-* DECLARAR (NUMERO ) INT
-* MOSTRAR ( "INGRESA EL NUMERO") 
-* ASIGNAR (NUMERO)
+* DECLARAR (NUM) INT
+* MOSTRAR ( "INGRESA UN NUMERO") 
+* ASIGNAR (NUM)
 * SI EL NUMERO >_0 ENTONCES
      MOSTRAR ("EL NUMERO ES POSITIVO")
 SINO     
