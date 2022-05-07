@@ -8,11 +8,14 @@
 * ASIGNAR (NUMERO)
 * SI EL NUMERO >_0 ENTONCES
      MOSTRAR ("EL NUMERO ES POSITIVO")
-SI EL NUMERO <_0 ENTONCES     
-     MOSTRAR ("EL NUMERO ES NEGATIVO")
+SINO     
+MOSTRAR ("ES NEGATIVO")
   FINSI   
-     
+  FIN   
 * Programa que solicite se ingrese una letra y sólo permita introducir los caracteres s y n.
+* INICIO
+* DECLARAR (LETRA, "N" Y "S")
+* MOSTRAR
 * Un programa que pida una letra y detecte si es una vocal. 
 * Programa que pida 3 números y los muestre en pantalla de menor a mayor.  
 * De un programa que pida un número del 1 al 12 y diga el nombre del mes correspondiente.
